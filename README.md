@@ -6,6 +6,7 @@ Best React components by Matteo Manzinello
 
 - material-ui
 - grommet v2
+- react bootstrap
 - ant.design
 - rsuite
 - Evergreen
@@ -14,7 +15,20 @@ Best React components by Matteo Manzinello
 - Talend UI
 - Rebass
 - Primer Components
+- Blueprint
+- Reactstrap
+- React Toolbox
+- Semantic UI
+- Elemental UI
+- Belle
+- PrimeReact
+- Atlaskit
+- Carbon Components
+- Gestalt
+- React MD
+- React Foundation
 
 ## Other interesting components
 
 - React Kawaii
+- React virtualized
