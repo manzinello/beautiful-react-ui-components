@@ -4,52 +4,50 @@ Beautiful React components, a list by [matteo manzinello](https://matteomanzinel
 
 ## Complete UI components
 
-### material-ui
+### Material-UI https://material-ui.com
 
-### grommet v2
+### grommet https://v2.grommet.io
 
-### react bootstrap
+### React-Bootstrap https://react-bootstrap.github.io
 
-### ant.design
+### Ant Design https://ant.design
 
-### evergreen
+### Evergreen https://evergreen.surge.sh
 
-### ring UI
+### Ring UI https://jetbrains.github.io/ring-ui
 
-### Office UI Fabric React
+### Office UI Fabric https://developer.microsoft.com/en-us/fabric#/components
 
-### Talend UI
+### Talend UI http://talend.surge.sh
 
-### Rebass
+### Rebass https://rebassjs.org
 
-### Primer Components
+### Primer Components https://primer.style/components
 
-### Blueprint
+### Blueprint https://blueprintjs.com
 
-### Reactstrap
+### reactstrap https://reactstrap.github.io
 
-### React Toolbox
+### React Toolbox http://react-toolbox.io
 
-### Semantic UI
+### Semantic UI https://semantic-ui.com
 
-### Elemental UI
+### Elemental UI http://elemental-ui.com
 
-### Belle
+### Belle http://nikgraf.github.io/belle
 
-### PrimeReact
+### PrimeReact https://www.primefaces.org/primereact
 
-### Atlaskit
+### Atlaskit https://atlaskit.atlassian.com
 
-### Carbon Components
+### Carbon Components http://react.carbondesignsystem.com
 
-### Gestalt
+### Gestalt https://pinterest.github.io/gestalt
 
-### Rsuite
+### RSUITE https://rsuitejs.com
 
-### React MD
+### react-md https://react-md.mlaursen.com
 
-### React Foundation
+### React + Foundation https://react.foundation
 
-## Other more specific components
-
-// TODO!
+...work in progress!
