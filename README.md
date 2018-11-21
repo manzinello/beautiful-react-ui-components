@@ -1,6 +1,6 @@
-# 🌈 Beautiful React UI components
+# 🌈 beautiful React UI components
 
-Beautiful React components, a list by [matteo manzinello](https://matteomanzinello.com)
+beautiful React components, a list by [matteo manzinello](https://matteomanzinello.com)
 
 ## Complete UI components
 
