@@ -1,14 +1,13 @@
 # 🌈 Beautiful React UI components
 
-Best React components by Matteo Manzinello
+Beautiful React components, a list by [matteo manzinello](https://matteomanzinello.com)
 
-## Complete UI components
+## Beautiful (and complete) UI components
 
 - material-ui
 - grommet v2
 - react bootstrap
 - ant.design
-- rsuite
 - Evergreen
 - Ring UI
 - Office UI Fabric React
@@ -25,10 +24,10 @@ Best React components by Matteo Manzinello
 - Atlaskit
 - Carbon Components
 - Gestalt
+- rsuite
 - React MD
 - React Foundation
 
-## Other interesting components
+## Other more specific components
 
-- React Kawaii
-- React virtualized
+// TODO!
