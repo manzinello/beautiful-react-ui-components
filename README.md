@@ -1,4 +1,4 @@
-# 🎈 Beautiful React components
+# 🌈 Beautiful React UI components
 
 Best React components by Matteo Manzinello
 
