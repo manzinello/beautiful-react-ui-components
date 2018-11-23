@@ -50,4 +50,6 @@ beautiful React components, a list by [matteo manzinello](https://matteomanzinel
 
 ### React + Foundation ~ https://react.foundation
 
-...work in progress!
+## ...other beautiful components
+
+## nivo ~ https://nivo.rocks
