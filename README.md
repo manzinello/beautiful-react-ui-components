@@ -52,4 +52,6 @@ beautiful React components, a list by [matteo manzinello](https://matteomanzinel
 
 ## ...other beautiful components
 
-## nivo ~ https://nivo.rocks
+### React Dates ~ https://airbnb.io/react-dates
+
+### nivo ~ https://nivo.rocks
