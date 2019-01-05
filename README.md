@@ -8,64 +8,124 @@ beautiful React components, a list by [matteo manzinello](https://matteomanzinel
 
 https://material-ui.com
 
-### grommet ~ https://v2.grommet.io
+### grommet
 
-### React-Bootstrap ~ https://react-bootstrap.github.io
+https://v2.grommet.io
 
-### Ant Design ~ https://ant.design
+### React-Bootstrap
 
-### Evergreen ~ https://evergreen.surge.sh
+https://react-bootstrap.github.io
 
-### Ring UI ~ https://jetbrains.github.io/ring-ui
+### Ant Design
 
-### Office UI Fabric ~ https://developer.microsoft.com/en-us/fabric#/components
+https://ant.design
 
-### Talend UI ~ http://talend.surge.sh
+### Evergreen
 
-### instructure-ui ~ https://instructure.design
+https://evergreen.surge.sh
 
-### Elastic UI ~ https://elastic.github.io/eui/
+### Ring UI
 
-### Element UI ~ https://github.com/elemefe/element-react
+https://jetbrains.github.io/ring-ui
 
-### Rebass ~ https://rebassjs.org
+### Office UI Fabric
 
-### Reakit ~ https://reakit.io/
+https://developer.microsoft.com/en-us/fabric#/components
 
-### Primer Components ~ https://primer.style/components
+### Talend UI
 
-### Blueprint ~ https://blueprintjs.com
+http://talend.surge.sh
 
-### reactstrap ~ https://reactstrap.github.io
+### instructure-ui
 
-### Lucid UI ~ http://appnexus.github.io/lucid/
+https://instructure.design
 
-### React Toolbox ~ http://react-toolbox.io
+### Elastic UI
 
-### Semantic UI ~ https://semantic-ui.com
+https://elastic.github.io/eui/
 
-### Elemental UI ~ http://elemental-ui.com
+### Element UI
 
-### Shopify Polaris ~ https://polaris.shopify.com/
+https://github.com/elemefe/element-react
 
-### Belle ~ http://nikgraf.github.io/belle
+### Rebass
 
-### PrimeReact ~ https://www.primefaces.org/primereact
+https://rebassjs.org
 
-### Atlaskit ~ https://atlaskit.atlassian.com
+### Reakit
 
-### Carbon Components ~ http://react.carbondesignsystem.com
+https://reakit.io/
 
-### Gestalt ~ https://pinterest.github.io/gestalt
+### Primer Components
 
-### RSUITE ~ https://rsuitejs.com
+https://primer.style/components
 
-### react-md ~ https://react-md.mlaursen.com
+### Blueprint
 
-### React + Foundation ~ https://react.foundation
+https://blueprintjs.com
+
+### reactstrap
+
+https://reactstrap.github.io
+
+### Lucid UI
+
+http://appnexus.github.io/lucid/
+
+### React Toolbox
+
+http://react-toolbox.io
+
+### Semantic UI
+
+https://semantic-ui.com
+
+### Elemental UI
+
+http://elemental-ui.com
+
+### Shopify Polaris
+
+https://polaris.shopify.com/
+
+### Belle
+
+http://nikgraf.github.io/belle
+
+### PrimeReact
+
+https://www.primefaces.org/primereact
+
+### Atlaskit
+
+https://atlaskit.atlassian.com
+
+### Carbon Components
+
+http://react.carbondesignsystem.com
+
+### Gestalt
+
+https://pinterest.github.io/gestalt
+
+### RSUITE
+
+https://rsuitejs.com
+
+### react-md
+
+https://react-md.mlaursen.com
+
+### React + Foundation
+
+https://react.foundation
 
 ## ...other beautiful components
 
-### React Dates ~ https://airbnb.io/react-dates
+### React Dates
 
-### nivo ~ https://nivo.rocks
+https://airbnb.io/react-dates
+
+### nivo
+
+https://nivo.rocks
