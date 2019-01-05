@@ -4,7 +4,9 @@ beautiful React components, a list by [matteo manzinello](https://matteomanzinel
 
 ## Complete UI components
 
-### Material-UI ~ https://material-ui.com
+### Material-UI
+
+https://material-ui.com
 
 ### grommet ~ https://v2.grommet.io
 
@@ -20,7 +22,15 @@ beautiful React components, a list by [matteo manzinello](https://matteomanzinel
 
 ### Talend UI ~ http://talend.surge.sh
 
+### instructure-ui ~ https://instructure.design
+
+### Elastic UI ~ https://elastic.github.io/eui/
+
+### Element UI ~ https://github.com/elemefe/element-react
+
 ### Rebass ~ https://rebassjs.org
+
+### Reakit ~ https://reakit.io/
 
 ### Primer Components ~ https://primer.style/components
 
@@ -28,11 +38,15 @@ beautiful React components, a list by [matteo manzinello](https://matteomanzinel
 
 ### reactstrap ~ https://reactstrap.github.io
 
+### Lucid UI ~ http://appnexus.github.io/lucid/
+
 ### React Toolbox ~ http://react-toolbox.io
 
 ### Semantic UI ~ https://semantic-ui.com
 
 ### Elemental UI ~ http://elemental-ui.com
+
+### Shopify Polaris ~ https://polaris.shopify.com/
 
 ### Belle ~ http://nikgraf.github.io/belle
 
