@@ -124,6 +124,10 @@ https://react.foundation
 
 https://github.com/box/box-ui-elements
 
+### AWS Amplify UI Components
+
+https://aws-amplify.github.io/docs/js/ui
+
 ## ...other beautiful components
 
 ### React Dates
