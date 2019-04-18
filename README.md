@@ -132,6 +132,10 @@ https://aws-amplify.github.io/docs/js/ui
 
 https://react-hk-components.herokuapp.com/
 
+### Windows95 UI Components
+
+https://react95.io/
+
 ## ...other beautiful components
 
 ### React Dates
