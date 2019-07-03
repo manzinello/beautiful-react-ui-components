@@ -140,6 +140,10 @@ https://react95.io/
 
 https://baseweb.design/
 
+### React Kit (Il kit React per lo sviluppo di applicazioni web per la PA)
+
+https://italia.github.io/design-react-kit/
+
 ## ...other beautiful components
 
 ### React Dates
