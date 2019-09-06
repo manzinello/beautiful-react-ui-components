@@ -147,3 +147,7 @@ beautiful React components, a list by [matteo manzinello](https://matteomanzinel
 ### Atomize
 
 <https://atomizecode.com/>
+
+### Chakra Design System
+
+<https://chakra-ui.com>
