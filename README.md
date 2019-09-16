@@ -151,3 +151,7 @@ beautiful React components, a list by [matteo manzinello](https://matteomanzinel
 ### Chakra Design System
 
 <https://chakra-ui.com>
+
+### React Rainbow components
+
+<https://react-rainbow.web.app>
