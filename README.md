@@ -155,3 +155,11 @@ beautiful React components, a list by [matteo manzinello](https://matteomanzinel
 ### React Rainbow components
 
 <https://react-rainbow.web.app>
+
+### Auth0 Cosmos
+
+<https://auth0-cosmos.now.sh>
+
+### Lightning Design System
+
+<https://lightningdesignsystem.com>
