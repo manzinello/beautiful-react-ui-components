@@ -167,3 +167,7 @@ beautiful React components, a list by [matteo manzinello](https://matteomanzinel
 ### Element UI
 
 <https://element.eleme.io>
+
+### Patternfly 4
+
+<https://www.patternfly.org/v4/documentation/react/overview/release-notes>
