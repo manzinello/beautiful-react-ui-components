@@ -108,7 +108,7 @@ alt="grommet"/>
 
 ### Carbon Components
 
-<http://react.carbondesignsystem.com>
+<https://www.carbondesignsystem.com/get-started/develop/react/>
 
 ### Gestalt
 
@@ -120,7 +120,7 @@ alt="grommet"/>
 
 ### react-md
 
-<https://react-md.mlaursen.com>
+<https://react-md.dev>
 
 ### React + Foundation
 
@@ -129,10 +129,6 @@ alt="grommet"/>
 ### Box UI Elements
 
 <https://github.com/box/box-ui-elements>
-
-### AWS Amplify UI Components
-
-<https://aws-amplify.github.io/docs/js/ui>
 
 ### Heroku React HK Components
 
