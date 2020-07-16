@@ -8,11 +8,19 @@ beautiful React components, a list by [matteo manzinello](https://matteomanzinel
 
 <https://material-ui.com>
 
-![Material-UI](./buttons/material-ui.png)
+<img
+width="120"
+src="./buttons/material-ui.png"
+alt="Material-UI"/>
 
 ### grommet
 
 <https://v2.grommet.io>
+
+<img
+width="120"
+src="./buttons/grommet.png"
+alt="grommet"/>
 
 ### React-Bootstrap
 
