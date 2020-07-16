@@ -54,10 +54,6 @@ alt="grommet"/>
 
 <https://elastic.github.io/eui/>
 
-### Element UI
-
-<https://github.com/elemefe/element-react>
-
 ### Rebass
 
 <https://rebassjs.org>
