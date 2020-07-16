@@ -1,8 +1,8 @@
 # 🌈 beautiful React UI components
 
-beautiful React components, a list by [matteo manzinello](https://matteomanzinello.com)
+## beautiful React components
 
-## Complete UI components
+a list by [matteo manzinello](https://matteomanzinello.com)
 
 ### Material-UI
 
