@@ -171,3 +171,7 @@ beautiful React components, a list by [matteo manzinello](https://matteomanzinel
 ### Patternfly 4
 
 <https://www.patternfly.org/v4/documentation/react/overview/release-notes>
+
+### Adobe React Spectrum
+
+<https://react-spectrum.adobe.com/react-spectrum/getting-started.html>
