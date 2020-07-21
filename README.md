@@ -10,7 +10,7 @@ a list by [matteo manzinello](https://matteomanzinello.com), that really loves R
 
 <img
 width="120"
-src="https://raw.githubusercontent.com/manzinello/beautiful-react-ui-components/master/buttons/material-ui.png"
+src="https://raw.githubusercontent.com/manzinello/beautiful-react-ui-components/master/images/buttons/material-ui.png"
 />
 
 ### grommet
@@ -19,7 +19,7 @@ src="https://raw.githubusercontent.com/manzinello/beautiful-react-ui-components/
 
 <img
 width="120"
-src="https://raw.githubusercontent.com/manzinello/beautiful-react-ui-components/master/buttons/grommet.png"
+src="https://raw.githubusercontent.com/manzinello/beautiful-react-ui-components/master/images/buttons/grommet.png"
 />
 
 ### React-Bootstrap
@@ -28,7 +28,7 @@ src="https://raw.githubusercontent.com/manzinello/beautiful-react-ui-components/
 
 <img
 width="120"
-src="https://raw.githubusercontent.com/manzinello/beautiful-react-ui-components/master/buttons/react-bootstrap.png"
+src="https://raw.githubusercontent.com/manzinello/beautiful-react-ui-components/master/images/buttons/react-bootstrap.png"
 />
 
 ### Ant Design
@@ -37,7 +37,7 @@ src="https://raw.githubusercontent.com/manzinello/beautiful-react-ui-components/
 
 <img
 width="120"
-src="https://raw.githubusercontent.com/manzinello/beautiful-react-ui-components/master/buttons/ant-design.png"
+src="https://raw.githubusercontent.com/manzinello/beautiful-react-ui-components/master/images/buttons/ant-design.png"
 />
 
 ### Evergreen
@@ -46,7 +46,7 @@ src="https://raw.githubusercontent.com/manzinello/beautiful-react-ui-components/
 
 <img
 width="120"
-src="https://raw.githubusercontent.com/manzinello/beautiful-react-ui-components/master/buttons/evergreen.png"
+src="https://raw.githubusercontent.com/manzinello/beautiful-react-ui-components/master/images/buttons/evergreen.png"
 />
 
 ### Ring UI
@@ -55,7 +55,7 @@ src="https://raw.githubusercontent.com/manzinello/beautiful-react-ui-components/
 
 <img
 width="120"
-src="https://raw.githubusercontent.com/manzinello/beautiful-react-ui-components/master/buttons/ring-ui.png"
+src="https://raw.githubusercontent.com/manzinello/beautiful-react-ui-components/master/images/buttons/ring-ui.png"
 />
 
 ### Office UI Fabric / Fluent UI
@@ -64,7 +64,7 @@ src="https://raw.githubusercontent.com/manzinello/beautiful-react-ui-components/
 
 <img
 width="120"
-src="https://raw.githubusercontent.com/manzinello/beautiful-react-ui-components/master/buttons/fluent-ui.png"
+src="https://raw.githubusercontent.com/manzinello/beautiful-react-ui-components/master/images/buttons/fluent-ui.png"
 />
 
 ### Talend UI
@@ -73,7 +73,7 @@ src="https://raw.githubusercontent.com/manzinello/beautiful-react-ui-components/
 
 <img
 width="120"
-src="https://raw.githubusercontent.com/manzinello/beautiful-react-ui-components/master/buttons/talend-ui.png"
+src="https://raw.githubusercontent.com/manzinello/beautiful-react-ui-components/master/images/buttons/talend-ui.png"
 />
 
 ### instructure-ui
@@ -82,7 +82,7 @@ src="https://raw.githubusercontent.com/manzinello/beautiful-react-ui-components/
 
 <img
 width="120"
-src="https://raw.githubusercontent.com/manzinello/beautiful-react-ui-components/master/buttons/instructure-ui.png"
+src="https://raw.githubusercontent.com/manzinello/beautiful-react-ui-components/master/images/buttons/instructure-ui.png"
 />
 
 ### Elastic UI
@@ -91,7 +91,7 @@ src="https://raw.githubusercontent.com/manzinello/beautiful-react-ui-components/
 
 <img
 width="120"
-src="https://raw.githubusercontent.com/manzinello/beautiful-react-ui-components/master/buttons/elastic-ui.png"
+src="https://raw.githubusercontent.com/manzinello/beautiful-react-ui-components/master/images/buttons/elastic-ui.png"
 />
 
 ### Rebass
@@ -100,7 +100,7 @@ src="https://raw.githubusercontent.com/manzinello/beautiful-react-ui-components/
 
 <img
 width="120"
-src="https://raw.githubusercontent.com/manzinello/beautiful-react-ui-components/master/buttons/rebass.png"
+src="https://raw.githubusercontent.com/manzinello/beautiful-react-ui-components/master/images/buttons/rebass.png"
 />
 
 ### Reakit
@@ -109,7 +109,7 @@ src="https://raw.githubusercontent.com/manzinello/beautiful-react-ui-components/
 
 <img
 width="120"
-src="https://raw.githubusercontent.com/manzinello/beautiful-react-ui-components/master/buttons/reakit.png"
+src="https://raw.githubusercontent.com/manzinello/beautiful-react-ui-components/master/images/buttons/reakit.png"
 />
 
 ### Primer Components
@@ -118,7 +118,7 @@ src="https://raw.githubusercontent.com/manzinello/beautiful-react-ui-components/
 
 <img
 width="120"
-src="https://raw.githubusercontent.com/manzinello/beautiful-react-ui-components/master/buttons/primer.png"
+src="https://raw.githubusercontent.com/manzinello/beautiful-react-ui-components/master/images/buttons/primer.png"
 />
 
 ### Blueprint
@@ -127,7 +127,7 @@ src="https://raw.githubusercontent.com/manzinello/beautiful-react-ui-components/
 
 <img
 width="120"
-src="https://raw.githubusercontent.com/manzinello/beautiful-react-ui-components/master/buttons/blueprint.png"
+src="https://raw.githubusercontent.com/manzinello/beautiful-react-ui-components/master/images/buttons/blueprint.png"
 />
 
 ### reactstrap
@@ -136,7 +136,7 @@ src="https://raw.githubusercontent.com/manzinello/beautiful-react-ui-components/
 
 <img
 width="120"
-src="https://raw.githubusercontent.com/manzinello/beautiful-react-ui-components/master/buttons/reactstrap.png"
+src="https://raw.githubusercontent.com/manzinello/beautiful-react-ui-components/master/images/buttons/reactstrap.png"
 />
 
 ### Lucid UI
@@ -145,7 +145,7 @@ src="https://raw.githubusercontent.com/manzinello/beautiful-react-ui-components/
 
 <img
 width="120"
-src="https://raw.githubusercontent.com/manzinello/beautiful-react-ui-components/master/buttons/lucid-ui.png"
+src="https://raw.githubusercontent.com/manzinello/beautiful-react-ui-components/master/images/buttons/lucid-ui.png"
 />
 
 ### React Toolbox
@@ -154,7 +154,7 @@ src="https://raw.githubusercontent.com/manzinello/beautiful-react-ui-components/
 
 <img
 width="120"
-src="https://raw.githubusercontent.com/manzinello/beautiful-react-ui-components/master/buttons/react-toolbox.png"
+src="https://raw.githubusercontent.com/manzinello/beautiful-react-ui-components/master/images/buttons/react-toolbox.png"
 />
 
 ### Semantic UI
@@ -163,7 +163,7 @@ src="https://raw.githubusercontent.com/manzinello/beautiful-react-ui-components/
 
 <img
 width="120"
-src="https://raw.githubusercontent.com/manzinello/beautiful-react-ui-components/master/buttons/semantic-ui.png"
+src="https://raw.githubusercontent.com/manzinello/beautiful-react-ui-components/master/images/buttons/semantic-ui.png"
 />
 
 ### Elemental UI
@@ -172,7 +172,7 @@ src="https://raw.githubusercontent.com/manzinello/beautiful-react-ui-components/
 
 <img
 width="120"
-src="https://raw.githubusercontent.com/manzinello/beautiful-react-ui-components/master/buttons/elemental-ui.png"
+src="https://raw.githubusercontent.com/manzinello/beautiful-react-ui-components/master/images/buttons/elemental-ui.png"
 />
 
 ### Shopify Polaris
@@ -181,7 +181,7 @@ src="https://raw.githubusercontent.com/manzinello/beautiful-react-ui-components/
 
 <img
 width="120"
-src="https://raw.githubusercontent.com/manzinello/beautiful-react-ui-components/master/buttons/polaris.png"
+src="https://raw.githubusercontent.com/manzinello/beautiful-react-ui-components/master/images/buttons/polaris.png"
 />
 
 ### Belle
@@ -190,7 +190,7 @@ src="https://raw.githubusercontent.com/manzinello/beautiful-react-ui-components/
 
 <img
 width="120"
-src="https://raw.githubusercontent.com/manzinello/beautiful-react-ui-components/master/buttons/belle.png"
+src="https://raw.githubusercontent.com/manzinello/beautiful-react-ui-components/master/images/buttons/belle.png"
 />
 
 ### PrimeReact
@@ -199,7 +199,7 @@ src="https://raw.githubusercontent.com/manzinello/beautiful-react-ui-components/
 
 <img
 width="120"
-src="https://raw.githubusercontent.com/manzinello/beautiful-react-ui-components/master/buttons/primereact.png"
+src="https://raw.githubusercontent.com/manzinello/beautiful-react-ui-components/master/images/buttons/primereact.png"
 />
 
 ### Atlaskit
@@ -208,7 +208,7 @@ src="https://raw.githubusercontent.com/manzinello/beautiful-react-ui-components/
 
 <img
 width="120"
-src="https://raw.githubusercontent.com/manzinello/beautiful-react-ui-components/master/buttons/atlaskit.png"
+src="https://raw.githubusercontent.com/manzinello/beautiful-react-ui-components/master/images/buttons/atlaskit.png"
 />
 
 ### Carbon Components
@@ -217,7 +217,7 @@ src="https://raw.githubusercontent.com/manzinello/beautiful-react-ui-components/
 
 <img
 width="120"
-src="https://raw.githubusercontent.com/manzinello/beautiful-react-ui-components/master/buttons/carbon.png"
+src="https://raw.githubusercontent.com/manzinello/beautiful-react-ui-components/master/images/buttons/carbon.png"
 />
 
 ### Gestalt
@@ -226,7 +226,7 @@ src="https://raw.githubusercontent.com/manzinello/beautiful-react-ui-components/
 
 <img
 width="120"
-src="https://raw.githubusercontent.com/manzinello/beautiful-react-ui-components/master/buttons/gestalt.png"
+src="https://raw.githubusercontent.com/manzinello/beautiful-react-ui-components/master/images/buttons/gestalt.png"
 />
 
 ### RSUITE
@@ -235,7 +235,7 @@ src="https://raw.githubusercontent.com/manzinello/beautiful-react-ui-components/
 
 <img
 width="120"
-src="https://raw.githubusercontent.com/manzinello/beautiful-react-ui-components/master/buttons/rsuite.png"
+src="https://raw.githubusercontent.com/manzinello/beautiful-react-ui-components/master/images/buttons/rsuite.png"
 />
 
 ### react-md
@@ -244,7 +244,7 @@ src="https://raw.githubusercontent.com/manzinello/beautiful-react-ui-components/
 
 <img
 width="120"
-src="https://raw.githubusercontent.com/manzinello/beautiful-react-ui-components/master/buttons/react-md.png"
+src="https://raw.githubusercontent.com/manzinello/beautiful-react-ui-components/master/images/buttons/react-md.png"
 />
 
 ### React + Foundation
@@ -257,7 +257,7 @@ src="https://raw.githubusercontent.com/manzinello/beautiful-react-ui-components/
 
 <img
 width="120"
-src="https://raw.githubusercontent.com/manzinello/beautiful-react-ui-components/master/buttons/box.png"
+src="https://raw.githubusercontent.com/manzinello/beautiful-react-ui-components/master/images/buttons/box.png"
 />
 
 ### Heroku React HK Components
@@ -270,7 +270,7 @@ src="https://raw.githubusercontent.com/manzinello/beautiful-react-ui-components/
 
 <img
 width="120"
-src="https://raw.githubusercontent.com/manzinello/beautiful-react-ui-components/master/buttons/react95.png"
+src="https://raw.githubusercontent.com/manzinello/beautiful-react-ui-components/master/images/buttons/react95.png"
 />
 
 ### Base Web
@@ -279,7 +279,7 @@ src="https://raw.githubusercontent.com/manzinello/beautiful-react-ui-components/
 
 <img
 width="120"
-src="https://raw.githubusercontent.com/manzinello/beautiful-react-ui-components/master/buttons/base-web.png"
+src="https://raw.githubusercontent.com/manzinello/beautiful-react-ui-components/master/images/buttons/base-web.png"
 />
 
 ### React Kit (Il kit React per lo sviluppo di applicazioni web per la PA)
@@ -288,7 +288,7 @@ src="https://raw.githubusercontent.com/manzinello/beautiful-react-ui-components/
 
 <img
 width="120"
-src="https://raw.githubusercontent.com/manzinello/beautiful-react-ui-components/master/buttons/react-kit.png"
+src="https://raw.githubusercontent.com/manzinello/beautiful-react-ui-components/master/images/buttons/react-kit.png"
 />
 
 ### Atomize
@@ -297,7 +297,7 @@ src="https://raw.githubusercontent.com/manzinello/beautiful-react-ui-components/
 
 <img
 width="120"
-src="https://raw.githubusercontent.com/manzinello/beautiful-react-ui-components/master/buttons/atomize.png"
+src="https://raw.githubusercontent.com/manzinello/beautiful-react-ui-components/master/images/buttons/atomize.png"
 />
 
 ### Chakra Design System
@@ -306,7 +306,7 @@ src="https://raw.githubusercontent.com/manzinello/beautiful-react-ui-components/
 
 <img
 width="120"
-src="https://raw.githubusercontent.com/manzinello/beautiful-react-ui-components/master/buttons/chakra.png"
+src="https://raw.githubusercontent.com/manzinello/beautiful-react-ui-components/master/images/buttons/chakra.png"
 />
 
 ### React Rainbow components
@@ -315,7 +315,7 @@ src="https://raw.githubusercontent.com/manzinello/beautiful-react-ui-components/
 
 <img
 width="120"
-src="https://raw.githubusercontent.com/manzinello/beautiful-react-ui-components/master/buttons/rainbow.png"
+src="https://raw.githubusercontent.com/manzinello/beautiful-react-ui-components/master/images/buttons/rainbow.png"
 />
 
 ### Auth0 Cosmos
@@ -324,7 +324,7 @@ src="https://raw.githubusercontent.com/manzinello/beautiful-react-ui-components/
 
 <img
 width="120"
-src="https://raw.githubusercontent.com/manzinello/beautiful-react-ui-components/master/buttons/cosmos.png"
+src="https://raw.githubusercontent.com/manzinello/beautiful-react-ui-components/master/images/buttons/cosmos.png"
 />
 
 ### Lightning Design System
@@ -333,7 +333,7 @@ src="https://raw.githubusercontent.com/manzinello/beautiful-react-ui-components/
 
 <img
 width="120"
-src="https://raw.githubusercontent.com/manzinello/beautiful-react-ui-components/master/buttons/lightning.png"
+src="https://raw.githubusercontent.com/manzinello/beautiful-react-ui-components/master/images/buttons/lightning.png"
 />
 
 ### Element UI
@@ -342,7 +342,7 @@ src="https://raw.githubusercontent.com/manzinello/beautiful-react-ui-components/
 
 <img
 width="120"
-src="https://raw.githubusercontent.com/manzinello/beautiful-react-ui-components/master/buttons/element.png"
+src="https://raw.githubusercontent.com/manzinello/beautiful-react-ui-components/master/images/buttons/element.png"
 />
 
 ### Patternfly 4
@@ -351,7 +351,7 @@ src="https://raw.githubusercontent.com/manzinello/beautiful-react-ui-components/
 
 <img
 width="120"
-src="https://raw.githubusercontent.com/manzinello/beautiful-react-ui-components/master/buttons/patternfly.png"
+src="https://raw.githubusercontent.com/manzinello/beautiful-react-ui-components/master/images/buttons/patternfly.png"
 />
 
 ### Adobe React Spectrum
@@ -360,5 +360,5 @@ src="https://raw.githubusercontent.com/manzinello/beautiful-react-ui-components/
 
 <img
 width="120"
-src="https://raw.githubusercontent.com/manzinello/beautiful-react-ui-components/master/buttons/adobe.png"
+src="https://raw.githubusercontent.com/manzinello/beautiful-react-ui-components/master/images/buttons/adobe.png"
 />
