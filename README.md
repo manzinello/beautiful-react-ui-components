@@ -1,6 +1,9 @@
-# 🌈 beautiful React UI components
+<img
+width="100%"
+src="https://raw.githubusercontent.com/manzinello/beautiful-react-ui-components/master/images/beautiful-react-components-header.png"
+/>
 
-## beautiful React components
+# 🌈 beautiful React UI components
 
 a list by [matteo manzinello](https://matteomanzinello.com), that really loves React
 
