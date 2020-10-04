@@ -252,7 +252,12 @@ src="https://raw.githubusercontent.com/manzinello/beautiful-react-ui-components/
 
 ### React + Foundation
 
-<https://react.foundation>
+<https://digia.online/react-foundation-docs/>
+
+<img
+width="120"
+src="https://raw.githubusercontent.com/manzinello/beautiful-react-ui-components/master/images/buttons/react-foundation.png"
+/>
 
 ### Box UI Elements
 
