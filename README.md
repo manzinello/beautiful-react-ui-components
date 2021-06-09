@@ -1,11 +1,11 @@
+# 🌈 beautiful React UI components
+
+## a list by [matteo manzinello](https://matteomanzinello.com), that really loves React
+
 <img
 width="100%"
 src="https://raw.githubusercontent.com/manzinello/beautiful-react-ui-components/master/images/beautiful-react-components-header.png"
 />
-
-# 🌈 beautiful React UI components
-
-a list by [matteo manzinello](https://matteomanzinello.com), that really loves React
 
 ### Material-UI
 
@@ -270,7 +270,7 @@ src="https://raw.githubusercontent.com/manzinello/beautiful-react-ui-components/
 
 ### Heroku React HK Components
 
-<https://react-hk-components.herokuapp.com/>
+<https://github.com/heroku/react-hk-components>
 
 ### Windows95 UI Components
 
