@@ -355,7 +355,7 @@ src="https://raw.githubusercontent.com/manzinello/beautiful-react-ui-components/
 
 ### Patternfly 4
 
-<https://www.patternfly.org/v4/documentation/react/overview/release-notes>
+<https://www.patternfly.org/v4/components/button/>
 
 <img
 width="120"
