@@ -54,7 +54,7 @@ src="https://raw.githubusercontent.com/manzinello/beautiful-react-ui-components/
 
 ### Ring UI
 
-<https://jetbrains.github.io/ring-ui>
+<https://github.com/JetBrains/ring-ui>
 
 <img
 width="120"
@@ -117,7 +117,7 @@ src="https://raw.githubusercontent.com/manzinello/beautiful-react-ui-components/
 
 ### Primer Components
 
-<https://primer.style/components>
+<https://primer.style/design/components>
 
 <img
 width="120"
@@ -216,7 +216,7 @@ src="https://raw.githubusercontent.com/manzinello/beautiful-react-ui-components/
 
 ### Carbon Components
 
-<https://www.carbondesignsystem.com/get-started/develop/react/>
+<https://carbondesignsystem.com/components/overview/>
 
 <img
 width="120"
@@ -324,15 +324,6 @@ src="https://raw.githubusercontent.com/manzinello/beautiful-react-ui-components/
 <img
 width="120"
 src="https://raw.githubusercontent.com/manzinello/beautiful-react-ui-components/master/images/buttons/rainbow.png"
-/>
-
-### Auth0 Cosmos
-
-<https://auth0-cosmos.now.sh>
-
-<img
-width="120"
-src="https://raw.githubusercontent.com/manzinello/beautiful-react-ui-components/master/images/buttons/cosmos.png"
 />
 
 ### Lightning Design System
